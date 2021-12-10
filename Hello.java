@@ -6,4 +6,8 @@ public class hello {
     public static void greetings(String){
         System.out.println("bye bye" + name);
     }
+
+    public static int sqr (int x){
+        return x*x;
+    }
 }
