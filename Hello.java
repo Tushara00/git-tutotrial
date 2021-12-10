@@ -4,6 +4,13 @@ public class hello {
         greeting("Halima master branch");
     }
     public static void greetings(String){
-        System.out.println("Hello" + name);
+        System.out.println("bye bye" + name);
+    }
+
+    public static int sqr (int x){
+        return x*x;
+    }
+    public static int brtancha (int x){
+        return x*x;
     }
 }
