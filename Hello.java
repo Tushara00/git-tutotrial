@@ -1,7 +1,7 @@
 public class hello {
     public static void main(String[] args){
         System.out.println("VS code is awesome");
-        greeting("Halima");
+        greeting("Halima master branch");
     }
     public static void greetings(String){
         System.out.println("Hello" + name);
